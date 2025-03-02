@@ -1,7 +1,30 @@
 <h1 align="center"> El amigo secreto </h1>
 <h4 align="center">
-Descripción: <p>Este proyecto web en HTML y JavaScript, consiste en agregar amigos, mostrarlos en una lista, sortear alguno aleatoriamente y mostrarlo</p> 
+Descripción
+  <br>
+<p>Este proyecto web en HTML y JavaScript, consiste en agregar amigos, mostrarlos en una lista, sortear alguno aleatoriamente y mostrarlo</p> 
 </h4>
-## :hammer:Funcionalidades del proyecto
-- `Funcionalidad 1`: Se crea una funcion para agregar amigos 1- `Funcionalidad 2`: Se crea una funcion para mostrar amigos 2- `Funcionalidad 2a`: Se crea una funcion para validar los amigos existentes 2- `Funcionalidad 3`: Se crea la funcion para sortear al amigo elegido 3
+<br>
+<div>
+  Requisitos:
+  <br>
+  <br>
+  <span>Visual estudio code</span>
+  <br>
+  <span>Plugin Live server</span>
+  <br>
+  <span>Codigo fuente</span>
+  <br>
+</div>
+<br>
+<br>
+<div aling="center">
+  <p>Las principales funciones fueron</p>
+  <ul>
+    <li>Se crea una funcion para agregar amigos</li>
+    <li>Se crea una funcion para mostrar amigos</li>
+    <li>Se crea una funcion para validar los amigos existentes</li>
+    <li>Se crea la funcion para sortear al amigo elegido</li>
+  </ul>
+</div>
 
