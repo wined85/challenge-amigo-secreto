@@ -1,3 +1,5 @@
 <h1 align="center"> El amigo secreto </h1>
-## Descripción del proyecto
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
 ## :hammer:Funcionalidades del proyecto
